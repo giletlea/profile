@@ -1,0 +1,78 @@
+.container {
+	text-align:center;
+	width: 700px;
+    margin: 0 auto;
+    border-radius: 30px;
+	}
+
+.card {
+background-color: rgb(220, 220, 220);
+    text-align: center;
+    padding: 20px ;
+    border-radius: 10px;
+    margin: 16px auto;
+}
+
+.card1 {
+background-color: rgb(220, 220, 220);
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 16px auto;
+}
+
+.textmargin {
+	margin: 40px auto;
+	width: 350px ;
+	}
+
+.lien {
+	background-color: rgb(127, 127, 127);
+	margin: 40px auto;
+	width: 350px ;
+	border-radius: 0px;
+	padding: 5px 13px;
+}
+
+
+body {
+	background-color: rgb(192, 192, 192);
+	color: rgb(169, 169, 169);
+	font-family: 'Avenir Light';
+	font-size: 14px;
+}
+
+h1 {
+	font-family: 'Bebas Neue', sans-serif;
+	color: rgb(128, 128, 128);
+	font-size: 40px;
+	padding:0px;
+    border-radius: 10px;
+    margin: 16px auto;
+}
+
+h2 {
+	font-family: 'Avenir Moyen', sans-serif;
+	color: rgb(128, 128, 128);
+	font-size: 16px;
+}
+
+h3 {
+	font-family: 'Avenir', sans-serif;
+	color: rgb(128, 128, 128);
+	font-size: 20px;
+}
+
+a {
+    font-family: 'Avenir', sans-serif;
+    padding: 8px 16px;
+    text-decoration: none;
+    color: rgb(220, 220, 220);
+    font-weight: 600;
+    font-size: 16px;
+
+
+
+
+
+
